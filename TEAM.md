@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: [Mr B]
+Role: [Founder]
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: [Coco]
+Role: [Marketing]
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: [Mrs M]
+Role: [IT]
