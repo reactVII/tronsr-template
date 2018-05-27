@@ -1,4 +1,5 @@
 Describe the plan to support the community
+ 
 TRX will go back into people holding Tron and into hardware capacity for Testnet and Mainnet 
 I will act as a Tron ambassador and will push tons of content via these methods
 
