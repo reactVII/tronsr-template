@@ -5,10 +5,10 @@ Role: [Founder]
 
 ## Team Member 1
 
-Name: [Coco]
-    Role: [Marketing]
+Name: [Marinela]
+    Role: [IT Developer]
 
 ## Team Member 2
 
-Name: [Marinela]
-Role: [IT]
+Name: [Coco]
+Role: [Marketing, Community Relations and Promotions]
