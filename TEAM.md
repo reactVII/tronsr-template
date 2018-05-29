@@ -1,6 +1,6 @@
 ## Founder
 
-Name: [Mr B]
+Name: [William]
 Role: [Founder]
 
 ## Team Member 1
@@ -10,5 +10,5 @@ Name: [Coco]
 
 ## Team Member 2
 
-Name: [Mrs M]
+Name: [Marinela]
 Role: [IT]
