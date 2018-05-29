@@ -1,9 +1,9 @@
 Describe the plan to support the community
  
-TRX will go back into people holding Tron and into hardware capacity for Testnet and Mainnet. 
+Tron digital currency will go to people to hardware capacity for Testnet and Mainnet. 
 I will act as a Tron ambassador and will push tons of content via these methods
-
+Methods used will include
 YouTube I create YouTube videos illustrating how to buy Tron and develop on Tron. 
- Medium Posts Similar information but text based version of YouTube videos. 
- Twitter Push out the content to broader community. 
- Reddit Push out the content to broader community
+Medium Posts Similar information but text based version of YouTube videos. 
+Twitter Push out the content to broader community. 
+Reddit Push out the content to broader community
